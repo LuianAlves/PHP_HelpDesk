@@ -1,0 +1,15 @@
+1#Erro de impressão#Impressora#Minha impressora não imprime nenhum arquivo
+2#Meu computador trava muito#Hardware#Tento fazer coisas minimas nele, mas não para de travar
+4#Erro ao instalar programa#Software#Instalei meu primeiro programa no Windows, mas ele fica dando vários erros de DLL
+1#Testando a consulta de chamado#Hardware#É apenas um teste na consulta
+3#Troquei o Header#Criação Usuário#Coloquei o arquivo, vamos testar agora ...
+2#Testando o ID 2#Hardware#Teste Teste Teste
+1#Teste com a mudança do arquivo#Hardware#Troquei de pasta os arquivos
+1#Testando#Hardware#teste
+4#Testando notificação#Rede#Teste prático
+3#Testando pela Web#Software#Teste Teste
+1#Chamado ADMIN#Hardware#Minha computador parou de funcionar
+4#CHAMADO MARIA#Software#maria maria maria maria
+3#CHAMADO JOSE#Software#JOSE JOSE JOSE JOSE
+1#Meu PC parou de funcionar#Hardware#Estava usando....
+4#Maria#Rede#MARIA
